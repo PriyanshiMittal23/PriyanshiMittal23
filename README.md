@@ -114,8 +114,8 @@ Driven by curiosity and fueled by innovation, I’m a dedicated software develop
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshimittal23&show_icons=true&locale=en&layout=compact" alt="priyanshimittal23" />
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshimittal23&show_icons=true&locale=en&layout=compact" alt="priyanshimittal23" />
 </p>
 
 
